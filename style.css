@@ -135,6 +135,7 @@ main {
     left: 133px;
     top: -10px;
     width: 40px;
+    z-index: 1;
 }
 
 .funny-glasses {
@@ -159,7 +160,3 @@ main {
     position: sticky;
     left: 1px;
 }
-
-.top-hat{
-    z-index: 1;
-    }
